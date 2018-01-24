@@ -12,7 +12,7 @@ const Nav = () => (
                                 <div className="col-md-4"><p><a href="https://www.wonderfogg.com/events-2/">EVENTS</a></p></div>
 
                              </div>
-                        <div className="row">
+                        <div className="row rowpadding">
                                 <div className="col-md-4"id="sistorycov"></div>
                                 <div className="col-md-4"id="blacklogo"></div>
                                 <div className="col-md-4"id="photoal"></div>
